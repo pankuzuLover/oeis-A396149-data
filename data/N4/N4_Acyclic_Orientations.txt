@@ -1,0 +1,3 @@
+--- Acyclic_Orientations ---
+18	1
+24	1

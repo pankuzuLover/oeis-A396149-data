@@ -1,0 +1,2 @@
+--- Wiener_Index ---
+3	1

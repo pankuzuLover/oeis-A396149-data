@@ -1,0 +1,2 @@
+--- Determinant_Adj ---
+2	1

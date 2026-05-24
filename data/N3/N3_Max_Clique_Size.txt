@@ -1,0 +1,2 @@
+--- Max_Clique_Size ---
+3	1

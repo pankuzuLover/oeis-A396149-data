@@ -1,0 +1,4 @@
+--- Independence_Number ---
+1	1
+2	5
+3	1

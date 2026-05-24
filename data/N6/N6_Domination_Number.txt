@@ -1,0 +1,3 @@
+--- Domination_Number ---
+1	23
+2	8

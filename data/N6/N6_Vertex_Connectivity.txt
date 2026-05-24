@@ -1,0 +1,6 @@
+--- Vertex_Connectivity ---
+1	3
+2	16
+3	8
+4	3
+5	1

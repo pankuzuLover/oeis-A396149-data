@@ -1,0 +1,5 @@
+--- Edge_Connectivity ---
+2	17
+3	10
+4	3
+5	1
