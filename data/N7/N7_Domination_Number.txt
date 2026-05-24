@@ -1,0 +1,3 @@
+--- Domination_Number ---
+1	122
+2	96
